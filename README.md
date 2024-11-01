@@ -1,6 +1,6 @@
 # Md. Nazim Hossain
 
-Hello! I'm Nazim. I pursued my B.Sc. degree in Textile Engineering with a major in Yarn Engineering from the Bangladesh University of Textiles (BUTEX). My academic and practical experiences have focused on developing sustainable products in the textile industry. My thesis centered on developing rotor yarns from textile waste.
+Hello! I'm Nazim. I pursued my B.Sc. degree in Textile Engineering with a major in Yarn Engineering from the Bangladesh University of Textiles (BUTEX). My academic and practical experiences have focused on developing sustainable products in the textile industry. My thesis centered on developing rotor melange yarns from textile waste via upcycling process.
 
 ---
 
