@@ -5,7 +5,7 @@ Hello! I'm Nazim. I pursued my B.Sc. degree in Textile Engineering with a major 
 ---
 
 ### 👨‍🎓 About Me
-- **Education**: B.Sc. in Textile Engineering (CGPA: 3.03/4.0)  
+- **Education**: B.Sc. in Textile Engineering  
 - **Internship**: Multazim Spinning Mills Ltd.
   - Gained hands-on experience in yarn manufacturing and spinning processes.
   - Acquired insights into the sourcing and properties of different fibers.
