@@ -44,4 +44,4 @@ I am passionate about advancing sustainable textile technology. Some areas of in
 - **Email**: [bipul0128386@gmail.com](mailto:bipul0128386@gmail.com)
 - **LinkedIn**: [linkedin.com/in/nazim-hossain-8a0649211](https://linkedin.com/in/nazim-hossain-8a0649211)
 - **ORCID**: [0009-0003-8348-086](https://orcid.org/0009-0003-8348-086)
-
+- **Google Scholar**: [scholar.google.com/citations?user=J1tpUzQAAAAJ&hl=en](https://scholar.google.com/citations?user=J1tpUzQAAAAJ&hl=en)
